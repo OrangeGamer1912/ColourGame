@@ -1,2 +1,2 @@
 # ColourGame
-In game instructions.
+The Instructions are in the game.
